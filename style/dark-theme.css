@@ -6,7 +6,6 @@ body.dark { background-color: #141414; color: #878787; }
 .dark h1#profile_title { color: #fff; }
 .dark #profile_photo { border-color: #3b3b3b; }
 .dark #profile_data .th { color: #fff; }
-.dark #mainpage_accordion_area .section_header:hover { background-color: #232323; }
 .dark .section_header .section_title .section_icon { border-color: #3b3b3b; background: #282828; }
 .dark .section_header .section_title span.section_icon:hover { background: #3b3b3b; }
 .dark .section_header .section_title .section_icon:after { background-image: url(../images/header_controls_dark.png); }
@@ -185,7 +184,6 @@ body.dark { background-color: #141414; color: #878787; }
 .dark div.sc_table table th { color: #fff; background: #232323; border-color: #3b3b3b; }
 .dark div.sc_table table tr:hover td { background: #232323; }
 .dark #profile_data .profile_row a:hover { color: #fff; }
-.dark #mainpage_accordion_area .section_header .section_title:hover { background: #232323; }
 .dark #mainpage_accordion_area .section_body article.post { background: url(../images/line_hor_dark.gif) 0 0 repeat-x; }
 .dark #mainpage_accordion_area .section_body article.post.first { background: none; }
 .dark #nav_pages { border-color: #3b3b3b; }

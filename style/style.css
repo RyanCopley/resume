@@ -336,7 +336,6 @@ section#profile { position: relative;}
 .section_header .section_title.portfolio_section_title a span.icon:before { padding-top: 15px; height: 39px;}
 .section_header .section_title.contact_section_title a span.icon:before { padding-top: 12px; height: 42px;}
 #mainpage_accordion_area .section_header { height: 60px;}
-#mainpage_accordion_area .section_header .section_title:hover { background: #fafafa; cursor: pointer;}
 #mainpage_accordion_area .section_header .section_title.current:hover { background: none; cursor: default;}
 #mainpage_accordion_area .section_header .section_name { position: relative; z-index: 999; height: 60px; line-height: 59px; display: block; padding: 0 29px; text-align: center; color: #646464;
  -webkit-transition: all ease .2s;
@@ -438,7 +437,7 @@ h3.category_title .category_title_icon { border-radius: 3px; position: absolute;
 /*  Portfolio  */
 .portfolio_wrapper { width: 100%; height:auto;}
 .portfolio_wrapper .portfolio_items { margin: 0 -10px 0 -2px; overflow: hidden;}
-#mainpage_accordion_area .section_body { display: none; position:relative; overflow:hidden;}
+#mainpage_accordion_area .section_body {position:relative; overflow:hidden;}
 .profile_section .section_body { display: block;}
 #mainpage_accordion_area .portfolio_items article.portfolio_post { float: left; width:252px; padding-top: 0;  height:auto; overflow:hidden; margin: 0 0 2px 2px;
  background: none;
