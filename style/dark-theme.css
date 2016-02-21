@@ -55,10 +55,10 @@ body.dark { background-color: #141414; color: #878787; }
 .dark .sc_contact_form .enter:hover { background: none; }
 /*social ico */
 .dark #header .social_links li.rss a{ background-position:0 0; }
-.dark #header .social_links li.fb a{ background-position: -22px 0; }
-.dark #header .social_links li.tw a{ background-position: -44px 0; }
+.dark .social_links li.fb a{ background-position: -22px 0; }
+.dark .social_links li.tw a{ background-position: -44px 0; }
 .dark #header .social_links li.gplus a{ background-position: -66px 0; }
-.dark #header .social_links li.lnkd a{ background-position: -88px 0; }
+.dark .social_links li.lnkd a{ background-position: -88px 0; }
 .dark #header .social_links li.drb a{ background-position: -110px 0; }
 .dark #header .social_links li.vim a{ background-position: -132px 0; }
 .dark #header .social_links li.pin a{ background-position: -154px 0; }
