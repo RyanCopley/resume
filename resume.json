@@ -133,7 +133,7 @@
         },
         {
             "name": "iOS",
-            "keywords": ["Cocoapods", "Fastlane", "Realm", "AFNetworking", "UIKit", "Auto Layout", "iAP", "MapKit", "Google DFP"]
+            "keywords": ["Cocoapods", "Fastlane", "Realm", "AFNetworking", "UIKit", "Auto Layout", "iAP", "MapKit", "Google DFP", "AudioToolbox"]
         },
         {
             "name": "Javascript",
@@ -155,10 +155,6 @@
         },
         {
             "name": "Ice Skating",
-            "keywords": []
-        },
-        {
-            "name": "Dance",
             "keywords": []
         },
         {
