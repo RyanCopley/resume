@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/objectivecopley
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ryancopley.com
+  * I am objectivecopley (https://keybase.io/objectivecopley) on keybase.
+  * I have a public key with fingerprint 7F55 F144 0D6B DD25 5590  1313 3181 15BB EFBE 4EE1
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01015f66350c7e789f63aac9639961e2e9292c26f909a28df29f13836c02d707b2600a",
+            "fingerprint": "7f55f1440d6bdd2555901313318115bbefbe4ee1",
+            "host": "keybase.io",
+            "key_id": "318115bbefbe4ee1",
+            "kid": "01015f66350c7e789f63aac9639961e2e9292c26f909a28df29f13836c02d707b2600a",
+            "uid": "2769f63a79eaa12505118024c7586a19",
+            "username": "objectivecopley"
+        },
+        "service": {
+            "hostname": "ryancopley.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1493232436,
+    "expire_in": 157680000,
+    "prev": "2667f49089cccf868895cf94afb1b29295382759e3aefb922336edbcda358f39",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owGtUm1QVFUYXojlYx0hARmVMLhMJgzC/b73bA4yIE0ySjWTFlOx3o9zl8vHvdvd
+dW3jKxUtmhoaNRogQwvDwpAsC2LJJaGmwUg+JhHMMJJmdQqwRB0Qu5fsXz87f86c
+8z7P8z7vM++bS+8zWQKwXcs7p77KvRzQ5+dNeaZrTCnCq6IHsZYiRXDxgsUidLps
+RbKIWBEUQzFKommCQgUGMiyQaILjBEATANAYxCHAAS7gtARQwOGsKOFAwgiWoAUU
+FxmU4XEaRTkkBZFkxQ41hyYrLl2WkShKwkgSFWleFHGKogCKERhBYCyGUTwPJR6S
+EGI6sUB1GgzdHM85Yaqs6n/6w7Zo7z/w/7PvHYtyOEMvKjAAchyGUyiFYSyKkwJD
+sTSHAQPohJrClUAdrfKFUHDJbiiojmI91PIURC+6ZQEa+RoD3QNqHk75B5MqqCW6
+iENTXaqgFuu1ApfLYTWoLo/DwO6EvO2eio2XFVHPUye4oeaUVQWxYjpS72nIYiQg
+cAInCToFgS86ZA3aZANBMTSL6sdoA92IdTuC0zQjkQBlgSAIEkuzLKAECZCcxGO8
+HhCgCBZnKAAJTk8Y4DhB0FDkBZEjKFYijLGd8AVFRayU7pOz6zadsl3hXDs0iJRb
+qgMfCDIFWEzB5kBj00yWsPv/Xb+JiYi7z3gbhguHwSevRL5bYIrVfA31aXSoZ/zn
+FXKXIyzGH9TU9tQv58aU5IRh85x3FTYyEpaY/1t8e2mCZXKJuexix+adL2euzEpb
+e1HWgKvknLfKXx3VWvR9aMx7jVrVHnAp5iyTFA3k4qYkJPbjyTcWXn+tXmse7c2o
+6yysyuwva2rcVnHs/YXIQZge38NZQtxTJwPdb0VfmdwXE+Q+vMUVcu3J2eldqTPz
+j+xtuZWd2FkW3vUtjDL7LYVxS06/2rr2pb5134WFf1ZrPgHHKufKa001Ocs7snqf
+GDhqz3QUYH3HxnJbT3Wvq0wOTdlfAfnHvmCFA10fpPbsTegNGbeys9Hht6pjcznR
+cuju4OWcU1sbWvJmD3conW+fv+4LXv/0pT3J8e66nLbsj+aHFMuGmaiRyE9rzzT6
+GjzcyMm29j/WY9n2jO7w3UGrvRfqKgfmfh/MSv91oCLf69k4UHE7Zfq4b+uJh3pC
+cwgmYPuqmzPP76/6s/SdyYDYZUvXRCLtX35e+Jx7eMjT+0NSfLVz9aFH/bbEuiHb
+pogLY9vWNG8iz/YfvV7+4e2b/eYjEaP+41Nfb1jBaIML7rhl2sOKszsp76erHZno
+vsAbNZt/9K4Mnv/rdOPGqw/6amInMlriH59+9mCYXbKFOuKCzmf4btyJ+GbL+JU+
+ja4YPZNWf+cIGbw7vZnM/xs=
+=1VFE
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/objectivecopley
+
+==================================================================
