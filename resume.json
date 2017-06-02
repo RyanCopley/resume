@@ -6,7 +6,7 @@
         "email": "hireme@ryancopley.com",
         "phone": "(513) 284-7824",
         "website": "http://ryancopley.com",
-        "summary": "Cincinnati raised, process driven software developer with a Bachelor's Degree in Computer Science from Bowling Green State University. Proven iOS developer with a large showcase of iOS applications. Security, privacy, and anonymity advocate.",
+        "summary": "Cincinnati raised, process driven software developer with a Bachelor's Degree in Computer Science from Bowling Green State University. Proven iOS developer with a large showcase of iOS applications. Security, privacy, and anonymity advocate. Anything crypto.",
         "location": {
             "address": "",
             "postalCode": "",
@@ -33,14 +33,13 @@
             "position": "Senior Software Developer",
             "website": "http://usatoday.com",
             "startDate": "2014-01-06",
-            "summary": "Lead, architected, and developed a scalable native mobile editorial application framework that powers 50+ iOS Apps. Designed to scale from the beginning, A new app can be created and deployed with tools provided to project managers, without the need of a developer. We utilized heavy dependency injection to prevent code bloat, well defined configurations to vary the user experience, and heavy usage of continuous integration to orchestrate repetitive workflows. Trusted project maintainer & code reviewer for the USA Today Network platform, which delivers over 100 million daily page views across across 100+ sites. Various backend APIs were developed with go or NodeJS, with mandatory unit tests and black box tests.",
+            "summary": "Lead, architected, and developed a scalable native mobile editorial application framework that powers 50+ iOS Apps. Designed to scale from the beginning, a new app can be created and deployed with tools provided to project managers, all without the need of a developer. Core development patterns are heavy dependency injection to prevent code bloat, a strong and impacting configuration system to customize the experience, and one-click continuous integration to handle app submission, screenshots, etc. Backend developed in NodeJS, deployed to Amazon EC2 with Docker.",
             "highlights": [
                 "Software Architecture",
                 "Objective-C",
+                "Swift",
                 "NodeJS",
-                "Golang",
-                "Python",
-                "Django",
+                "Docker",
                 "Cincinnati.Com Bengals Xtra"
             ]
         },
@@ -50,7 +49,7 @@
             "website": "http://agile.bgsu.edu/",
             "startDate": "2012-10-01",
             "endDate": "2013-12-01",
-            "summary": "Developed BGSU branded iOS apps for various departments under the supervision of Dr. Joseph Chao. Worked with a small team of 4 mobile developers (2 iOS, 2 Android). Built 3 applications from the ground up to App Store over the course of just over a year.",
+            "summary": "Developed iOS apps for various BGSU causes under the supervision of Dr. Joseph Chao. Worked with a small team of 4 mobile developers (2 iOS, 2 Android). Built 3 applications from the ground up to App Store over the course of just over a year.",
             "highlights": [
                 "Objective-C",
                 "NodeJS",
