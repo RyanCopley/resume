@@ -1,0 +1,11 @@
+Strategizes on process and team structure to bring Product, Development, QA, and Support together. Strong communication, process, and documentation between these teams made for the fastest rollout of an enterprise grade product to our entire network. Turns out, when we all understand each others needs, things get done faster, and on the first try. :) 
+
+Developed an enterprise AMP solution for Gannett articles. Used Golang to deliver the article experience. Contributed back to the AMP project by implementing SMS sharing.
+
+Developed various in-house products ranging from APIs, Front end web applications, CLI tooling, or CI processies. Typically using NodeJS, Polymer, and Jenkins.
+
+Lead, architected, and developed an enterprise grade native mobile editorial application framework that powers 50+ iOS Apps. Designed to scale from the beginning, a new app can be created and deployed with tools provided to project managers, all without the need of a developer. Core development patterns are heavy dependency injection to prevent code bloat, a strong and impacting configuration system to customize the experience, and one-click continuous integration to handle app submission, screenshots, etc. Backend developed in NodeJS, deployed to Amazon EC2 with Docker. 
+
+Developed a large showcase of modules on the USA TODAY Network Desktop Platform, which powers over 100 million daily page views across 100+ sites. 
+
+Developed Cincinnati.com Traffic App for iOS. This application heavily utilized Gannett, INRIX, and AccuWeather APIs to serve Cincinnati residents with an in-depth, localized traffic application. Used Objective-C and NodeJS for these projects.
