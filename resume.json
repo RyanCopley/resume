@@ -50,12 +50,14 @@
                 "NodeJS",
                 "golang",
                 "Docker",
-                "Cocoapods"
+                "Jenkins 2.x with Pipelines",
+                "Cocoapods",
+                "Fastlane"
             ]
         },
         {
             "company": "Gannett, Inc.",
-            "position": "Senior Software Developer 2",
+            "position": "Software Developer 2",
             "website": "http://usatoday.com",
             "startDate": "2014-01-06",
             "endDate": "2015-06-01",
