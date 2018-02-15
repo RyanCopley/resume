@@ -1,1 +1,1 @@
-resume export index --theme Slick --format html
+resume export index --theme elegant --format html

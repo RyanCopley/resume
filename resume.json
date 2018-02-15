@@ -2,7 +2,7 @@
     "basics": {
         "name": "Ryan Copley",
         "label": "Senior Software Developer",
-        "picture": "http://i.imgur.com/ARaGlX6.jpg",
+        "picture": "me.jpg",
         "email": "hireme@ryancopley.com",
         "phone": "(513) 284-7824",
         "website": "http://ryancopley.com",
@@ -14,8 +14,7 @@
             "countryCode": "US",
             "region": "Ohio"
         },
-        "profiles": [
-            {
+        "profiles": [{
                 "network": "Twitter",
                 "username": "ObjectiveCopley",
                 "url": "https://twitter.com/objectivecopley"
@@ -27,20 +26,50 @@
             }
         ]
     },
-    "work": [
+    "work": [{
+            "company": "Gannett, Inc.",
+            "position": "Senior Software Developer 4",
+            "website": "http://usatoday.com",
+            "startDate": "2018-01-01",
+            "summary": "Currently I am part of Gannett's Content Intelligence team working to improve our Natural Language Processing capabilities, and training our model to improve relevancy. ",
+            "highlights": [
+                "Natural Language Processing",
+                "Machine Learning",
+                "Software Architecture"
+            ]
+        },
         {
             "company": "Gannett, Inc.",
-            "position": "Senior Software Developer",
+            "position": "Senior Software Developer 3",
             "website": "http://usatoday.com",
-            "startDate": "2014-01-06",
-            "summary": "",
+            "startDate": "2015-06-01",
+            "endDate": "2018-01-01",
+            "summary": "Developed USA Today & Local AMP Experience, while mentoring the team into proper agile workflows. Heavy emphasis on process, requirements, accountability, and quality assurance. Architected a mobile editorial framework, and implemented in iOS using Objective-C. This framework is deployed to 55 applications, such as the Cincinnati.com Bengals Xtra app. A framework of this scale required heavy automation (Continual Integration & Delivery) of all trivial or repetitive tasks. Analyzed analytic data to discover ways of optimizing our user experience and improve monetization with our partners. ",
             "highlights": [
                 "Software Architecture",
-                "Objective-C",
-                "Swift",
                 "NodeJS",
+                "golang",
                 "Docker",
-                "Cincinnati.Com Bengals Xtra"
+                "Cocoapods"
+            ]
+        },
+        {
+            "company": "Gannett, Inc.",
+            "position": "Senior Software Developer 2",
+            "website": "http://usatoday.com",
+            "startDate": "2014-01-06",
+            "endDate": "2015-06-01",
+            "summary": "Maintained existing iOS applications for Cincinnati.com, such as Cincinnati.com Bengals Xtra. Worked to migrate our team from Subversion to Git / Github with Continual Integration and Testing.",
+            "highlights": [
+                "Objective-C",
+                "Xcode",
+                "Subversion",
+                "Git",
+                "Github",
+                "Jenkins 1.x",
+                "Continual Integration",
+                "Unit Tests",
+                "Integration Tests"
             ]
         },
         {
@@ -94,8 +123,7 @@
             ]
         }
     ],
-    "education": [
-        {
+    "education": [{
             "institution": "Bowling Green State University",
             "area": "Computer Science",
             "studyType": "Bachelor's of Science",
@@ -117,18 +145,17 @@
             "endDate": "2015-03-14"
         }
     ],
-    "skills": [
-        {
+    "skills": [{
             "name": "Languages",
-            "keywords": ["Objective-C","Javascript (ES6)", "Typescript", "Go", "Python", "HTML", "CSS"]
+            "keywords": ["Javascript (ES6)", "Typescript", "Go", "Python", "Objective-C", "Kotlin", "C++", "HTML", "CSS"]
         },
         {
             "name": "Source Control",
             "keywords": ["Git", "GitHub"]
         },
         {
-            "name": "Testing",
-            "keywords": ["XCTest", "UI Automation", "Mocha", "Cucumber", "Istanbul", "Jenkins 2.0"]
+            "name": "Testing & Automation",
+            "keywords": ["Applitools", "XCTest", "UI Automation", "Mocha", "Cucumber", "Istanbul", "Jenkins", "Jenkins Pipelines", "TeamCity"]
         },
         {
             "name": "iOS",
@@ -139,8 +166,7 @@
             "keywords": ["npm", "Express", "Node", "jQuery", "Require.js", "Angular 1.0", "Polymer", "Backbone.js", "Grunt", "Sinon"]
         }
     ],
-    "interests": [
-        {
+    "interests": [{
             "name": "Software Development",
             "keywords": []
         },
