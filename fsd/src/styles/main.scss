@@ -1,0 +1,19 @@
+// Main SCSS
+
+body {
+  background: #383838;
+}
+
+#container  canvas {
+  width: 400px !important;
+  height: 225px !important;
+}
+
+
+.viewport {
+  transform: translate3d(0, 0, 0);
+  float: left;
+}
+.viewport:last-child{
+  float: none;
+}
