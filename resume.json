@@ -6,13 +6,13 @@
         "email": "hireme@ryancopley.com",
         "phone": "(513) 284-7824",
         "website": "http://ryancopley.com",
-        "summary": "Cincinnati raised, process driven software developer with a Bachelor's Degree in Computer Science from Bowling Green State University. I've developed everything from websites and mobile apps, to APIs and CLI tools. Security, privacy, and anonymity advocate. Anything crypto.",
+        "summary": "Originally from Cincinnati, Ohio, I am a process driven software developer with a Bachelor's Degree in Computer Science from Bowling Green State University. I ",
         "location": {
             "address": "",
             "postalCode": "",
-            "city": "Cincinnati",
+            "city": "Portland",
             "countryCode": "US",
-            "region": "Ohio"
+            "region": "Oregon"
         },
         "profiles": [{
                 "network": "Twitter",
@@ -149,16 +149,21 @@
     ],
     "skills": [{
             "name": "Languages",
-            "keywords": ["Javascript (ES6)", "Typescript", "Go", "Python", "Objective-C", "Kotlin", "C++", "HTML", "CSS"]
+            "keywords": ["Javascript (Browser & Node)", "Typescript", "Go", "Objective-C", "C++", "HTML", "CSS"]
         },
         {
             "name": "Source Control",
             "keywords": ["Git", "GitHub"]
         },
         {
-            "name": "Testing & Automation",
-            "keywords": ["Applitools", "XCTest", "UI Automation", "Mocha", "Cucumber", "Istanbul", "Jenkins", "Jenkins Pipelines", "TeamCity"]
+            "name": "Testing & CD/CD",
+            "keywords": ["Jenkins"]
         },
+        {
+            "name": "Infrastructure",
+            "keywords": ["Google Cloud", "Amazon Web Services", "Kubernetes", "Docker"]
+        },
+
         {
             "name": "iOS",
             "keywords": ["Cocoapods", "Fastlane", "Realm", "AFNetworking", "UIKit", "Auto Layout", "iAP", "MapKit", "Google DFP", "AudioToolbox"]
